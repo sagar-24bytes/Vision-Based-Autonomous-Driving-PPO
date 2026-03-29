@@ -112,9 +112,7 @@ Thumbs.db
 db.sqlite3
 db.sqlite3-journal
 
-# =========================
-# Misc
-# =========================
+
 .pypirc
 __pypackages__/
 .pdm-python
